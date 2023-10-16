@@ -1,9 +1,10 @@
 
-<div align=center>###Hello👋 I am Jiyoung Lee, Front-end Developer</div>
-<div align=center> 
+<div align=center><h2>Hello👋 I am Jiyoung Lee, Front-end Developer</h2></div>
+<div align=center>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
 </div>
 <!--
 **yellowgnuoy/yellowgnuoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
